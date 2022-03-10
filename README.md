@@ -1,26 +1,16 @@
-                                _
-                               / \
-                              / .'_
-                             / __| \
-             `.             | / (-' |
-           `.  \_..._       :  (_,-/
-         `-. `,'     `-.   /`-.__,'
-            `/ __       \ /     /
-            /`/  \       :'    /
-          _,\o\_o/       /    /
-         (_) ___.--.    /    /
-          `-. -._.i \.      :
-             `.\  ( |:.     |
-            ,' )`-' |:..   / \
-   __     ,'   |    `.:.      `.
-  (_ `---:     )      \:.       \
-   ,'     `. .'\       \:.       )
- ,' ,'     ,'  \\ o    |:.      /
-(_,'  ,7  /     \`.__.':..     /,,,
-  (_,'(_,'   _gdMbp,,dp,,,,,,dMMMMMbp,,
-          ,dMMMMMMMMMMMMMMMMMMMMMMMMMMMb,
-       .dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMb,  fsc
-     .dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM,
-    ,MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-   dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.
- .dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMb
+     .    _    +     .  ______   .          .
+  (      /|\      .    |      \      .   +
+      . |||||     _    | |   | | ||         .
+ .      |||||    | |  _| | | | |_||    .
+    /\  ||||| .  | | |   | |      |       .
+ __||||_|||||____| |_|_____________\__________
+ . |||| |||||  /\   _____      _____  .   .
+   |||| ||||| ||||   .   .  .         ________
+  . \|`-'|||| ||||    __________       .    .
+     \__ |||| ||||      .          .     .
+  __    ||||`-'|||  .       .    __________
+ .    . |||| ___/  ___________             .
+    . _ ||||| . _               .   _________
+ _   ___|||||__  _ \\--//    .          _
+      _ `---'    .)=\oo|=(.   _   .   .    .
+ _  ^      .  -    . \.|
